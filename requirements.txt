@@ -1,0 +1,4 @@
+streamlit
+llama-index-embeddings-mistralai
+llama-index
+llama-index-llms-mistralai
